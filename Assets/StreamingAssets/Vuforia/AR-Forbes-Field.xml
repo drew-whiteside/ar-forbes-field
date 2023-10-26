@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="plate_plate2" size="0.200000 0.075545" />
+    <ImageTarget name="posvar_text" size="0.800000 0.277551" />
+    <ImageTarget name="maz_plaque" size="0.300000 0.231797" />
+    <ImageTarget name="plate_plate" size="0.100000 0.044472" />
+    <ImageTarget name="457" size="1.000000 0.320317" />
+    <ImageTarget name="cathy_view" size="0.500000 0.354000" />
+    <ImageTarget name="arforbes" size="0.200000 0.258824" />
+    <ImageTarget name="BouquetSign" size="1.000000 0.462185" />
+    <ImageTarget name="Frame" size="0.500000 0.344181" />
+    <ImageTarget name="Posvar" size="0.060000 0.045000" />
+  </Tracking>
+</QCARConfig>

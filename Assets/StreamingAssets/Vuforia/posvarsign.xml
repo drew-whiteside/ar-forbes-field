@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="posvarsign" motionHint="adaptive" trackingMode="scan" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="posvarsigns_assembly" assemblyId="096f5be3fcc746a4a86d9ded5c986b61">
+<Part name="posvarsign" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="FrontFromLeft" translation="0.276039 -0.514849 6.57807" rotation="AD: 0.999855 0.0527886 -0.345261 196.427" trained="no">
+
+</EntryPoint>
+<EntryPoint name="FrontFromRight" translation="0.171095 -0.543692 6.21339" rotation="AD: -0.94846 -0.356251 1.99984 171.38" trained="no">
+
+</EntryPoint>
+<EntryPoint name="BackFromLeft" translation="0.218462 -0.6102 5.90459" rotation="AD: 0.928615 -0.41018 2.18575 188.272" trained="no">
+
+</EntryPoint>
+<EntryPoint name="BackFromRight" translation="0.166775 -0.744369 6.26044" rotation="AD: 0.999384 -0.0865048 0.453279 199.659" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
